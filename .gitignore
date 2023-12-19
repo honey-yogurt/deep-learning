@@ -28,3 +28,6 @@ _testmain.go
 *.prof
 
 .DS_Store
+
+# 自定义的设置
+C/

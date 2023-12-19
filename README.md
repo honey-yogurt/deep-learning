@@ -1,3 +1,3 @@
-# The integration and application of knowledge.
+# The integration and application of knowledge
 
 
